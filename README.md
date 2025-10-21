@@ -6,8 +6,15 @@ Developed by the brilliant minds of **Group 11** for *Information Management*, t
 
 ---
 
-## 💻 Platform & Compatibility
-Only available on **PC**🖥️
+## 💻 Platform & Display Optimization
+
+CATSko is currently optimized for a dedicated admin workstation:
+
+* **Platform**: **PC Only** 🖥️
+
+### 📐 Display Optimization Note
+
+The application is precision-engineered using **fixed-pixel layout (`.place()` geometry)**. For the intended visual design and perfect alignment, the application is **optimized to run on Windows displays set to 100% Display Scaling**. Users on higher scaling settings (e.g., 125% or 150%) may need to temporarily adjust their display scale for an optimal UI appearance.
 
 ---
 
@@ -30,7 +37,6 @@ This feline-focused application offers a comprehensive suite of tools:
 * **CRUD Operations for Applicant's Pet History** (Never lose a record!) 📖
 
 ---
-
 ## 🌟 The Development Team
 
 A big shout-out to the team that brought CATSko to life! 🚀
