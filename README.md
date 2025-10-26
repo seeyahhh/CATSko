@@ -47,4 +47,4 @@ A big shout-out to the team that brought CATSko to life! 🚀
 | **UI/UX Designer & Documentation** 🎨 | Dela Rosa, Jeter |
 | **Database Developer & Documentation** 💾 | Oliver, Josh Patrick |
 | **Frontend & Backend Developer** 💻 | Saliba, Avril |
-| **Frontend & Backend Developer** 💻 | Chauncey |
+| **Frontend & Backend Developer** 💻 | Umali, Chauncey |
